@@ -6,6 +6,11 @@ This repository contains the official implementation of **BiFusion**, a novel mu
 BiFusion introduces a **bilateral modality interaction framework** to leverage the complementarity between RGB images and LiDAR point clouds, addressing the challenges of cross-modal data fusion in autonomous driving systems.
 
 ---
+# 🖼️ Framework Overview
+
+Below is the framework of the proposed BiFusion algorithm:  
+
+![BiFusion Framework](https://github.com/YzMark2r/BiFusion/blob/main/Fig_framework.png)
 
 ## 🚧 Repository Status
 
