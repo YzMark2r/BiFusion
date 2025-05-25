@@ -12,16 +12,14 @@ Below is the framework of the proposed BiFusion algorithm:
 
 ![BiFusion Framework](https://github.com/YzMark2r/BiFusion/blob/main/Fig_framework.png)
 
+## 🎥 Demo Video
+
+Watch the demo video showcasing the performance of BiFusion here:  
+
+[![BiFusion Demo](https://img.youtube.com/vi/yGMN2xTfK00/0.jpg)](https://www.youtube.com/watch?v=yGMN2xTfK00)
+
 ## 🚧 Repository Status
 
 This repository is currently under construction.  
 **We will release the source code, pretrained models, and detailed instructions after the paper is officially accepted.**  
 Stay tuned for updates!
-
-## 🎥 Demo Video
-
-Below is a demo video showcasing the performance of BiFusion:  
-
-<video src="https://github.com/YzMark2r/BiFusion/blob/main/Video.mp4" controls="controls" style="max-width: 100%; height: auto;">
-Your browser does not support the video tag.
-</video>
